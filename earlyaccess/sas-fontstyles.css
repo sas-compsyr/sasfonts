@@ -2,40 +2,40 @@
 	SAS Fonts Style sheet to be used in any web page that needs to download these fonts
 	With the @font-face rule, web designers no longer have to use one of the "web-safe" fonts. 
 	1) You need to put inser this line in your <head/> container
-	<link href="http://sas-syrcomp.github.io/sasfonts/earlyaccess/sas-fontstyles.css" rel='stylesheet' type='text/css'>
+	<link href="http://sas-syrcomp.github.io/sasfonts/fonts/sas-fontstyles.css" rel='stylesheet' type='text/css'>
 */
 @font-face {
 	font-family: 'Assyrian Estrangela';
-	src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/AssyrianEstrangela.woff') format('woff'),
-		url('//sas-syrcomp.github.io/sasfonts/earlyaccess/AssyrianEstrangela.ttf') format('truetype');
+	src: url('//sas-syrcomp.github.io/sasfonts/fonts/AssyrianEstrangela.woff') format('woff'),
+		url('//sas-syrcomp.github.io/sasfonts/fonts/AssyrianEstrangela.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
     font-family: 'Assyrian-Dan-Regular';
-    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/Assyrian-Dan-Regular.WOFF') format('woff');
+    src: url('//sas-syrcomp.github.io/sasfonts/fonts/Assyrian-Dan-Regular.WOFF') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'east_syriac_marcusregular';
-    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/eastsm-webfont.woff') format('woff');      
+    src: url('//sas-syrcomp.github.io/sasfonts/fonts/eastsm-webfont.woff') format('woff');      
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'estrangelo_marcusregular';
-    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/estrm-webfont.woff') format('woff');
+    src: url('//sas-syrcomp.github.io/sasfonts/fonts/estrm-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'aaa-manuscript_marcusregular';
-    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/aaa-manuscript_marcus-webfont.woff') format('woff');
+    src: url('//sas-syrcomp.github.io/sasfonts/fonts/aaa-manuscript_marcus-webfont.woff') format('woff');
     font-weight: normal;     
     font-style: normal;
 }
