@@ -6,36 +6,36 @@
 */
 @font-face {
 	font-family: 'Assyrian Estrangela';
-	src: url('//sas-syrcomp.github.io/sasfonts/v1/AssyrianEstrangela.woff') format('woff'),
-		url('//sas-syrcomp.github.io/sasfonts/v1/AssyrianEstrangela.ttf') format('truetype');
+	src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/v1/AssyrianEstrangela.woff') format('woff'),
+		url('//sas-syrcomp.github.io/sasfonts/earlyaccess/v1/AssyrianEstrangela.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
     font-family: 'Assyrian-Dan-Regular';
-    src: url('//sas-syrcomp.github.io/sasfonts/v1/Assyrian-Dan-Regular.WOFF') format('woff');
+    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/v1/Assyrian-Dan-Regular.WOFF') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'east_syriac_marcusregular';
-    src: url('//sas-syrcomp.github.io/sasfonts/v1/eastsm-webfont.woff') format('woff');      
+    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/v1/eastsm-webfont.woff') format('woff');      
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'estrangelo_marcusregular';
-    src: url('//sas-syrcomp.github.io/sasfonts/v1/estrm-webfont.woff') format('woff');
+    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/v1/estrm-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'aaa-manuscript_marcusregular';
-    src: url('//sas-syrcomp.github.io/sasfonts/v1/aaa-manuscript_marcus-webfont.woff') format('woff');
+    src: url('//sas-syrcomp.github.io/sasfonts/earlyaccess/v1/aaa-manuscript_marcus-webfont.woff') format('woff');
     font-weight: normal;     
     font-style: normal;
 }
